@@ -1,0 +1,53 @@
+.inner-login-page{
+  margin-top: 50px;
+  border: 1px solid gray;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px gray;
+}
+#transaction-area{
+  display: none;
+}
+.deposit{
+  background-color: lightblue;
+  border-radius: 10px;
+  margin-left: 5px;
+  text-align: center;
+  padding: 5px;
+  margin: 10px;
+}
+.withdraw{
+  background-color: lightsalmon;
+  border-radius: 10px;
+  text-align: center;
+  padding: 5px;
+  margin: 10px;
+}
+.balance{
+  background-color: orange;
+  border-radius: 10px;
+  text-align: center;
+  padding: 5px;
+  margin: 10px;
+}
+.row{
+  margin: 50px;
+}
+#secondpage{
+  display:none;
+}
+.firstBox{
+  border: 1px solid blue;
+  text-align: center;
+  box-shadow: 5px 5px 10px gray;
+  padding: 30px;
+  border-radius: 10px;
+}
+.secondBox{
+  border: 1px solid blue;
+  text-align: center;
+  box-shadow: 5px 5px 10px gray;
+  padding: 30px;
+  border-radius: 10px;
+  margin-top: 10px;
+}
